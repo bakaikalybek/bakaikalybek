@@ -20,11 +20,11 @@
 ### 👨‍💻 About Me :
 I am Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kyrgyzstan.
 
-- :telescope: Currently I’m working looking for a new career opportunities
+- :telescope: Currently I’m working looking for a new career opportunities.
 
 - :seedling: Learning backend development with Python.
 
-- :zap: In my free time, I learn new technologies and play CS:GO.
+- :zap: In my free time, I do video editing and play CS:GO.
 
 ---
 
