@@ -20,7 +20,7 @@
 ### 👨‍💻 About Me :
 I am Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kyrgyzstan.
 
-- :telescope: Currently I’m working as an Android Developer at Aloe Nettech Inc.
+- :telescope: Currently I’m working looking for a new career opportunities
 
 - :seedling: Learning backend development with Python.
 
